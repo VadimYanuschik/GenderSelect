@@ -10,10 +10,6 @@ Example of the plugin working in a folder 'example'
 
 Press green button "Code" => "Download ZIP"
 
-```bash
-pip install foobar
-```
-
 ## Usage
 
 ```js
